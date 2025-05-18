@@ -10,16 +10,16 @@
 
 ### React Native CLI 프로젝트를 시작하기
 
-#### Node & Watchman 설치 
+- Node & Watchman 설치 
 
-- Watchman이란? 
+  - Watchman이란? 
 
-  파일 감시 서비스 -> 파일을 감시하고 기록하거나, 변경 사항이 있을 때 작업을 트리거합니다.
+    파일 감시 서비스 -> 파일을 감시하고 기록하거나, 변경 사항이 있을 때 작업을 트리거합니다.
 
-#### JDK(Java Development Kit) 설치
+-  JDK(Java Development Kit) 설치
 
-#### Android Studio 설치
+-  Android Studio 설치
 
-- Android 15 (VanillaIceCream) SDK 설치
+    - Android 15 (VanillaIceCream) SDK 설치
 
-#### Xcode 설치
+-  Xcode 설치
