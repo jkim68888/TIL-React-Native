@@ -10,7 +10,7 @@
 
 ### useState
 
-> React의 가장 기본적인 [훅](../../Hook/Readme.md)으로, 함수형 컴포넌트에서 상태(state)를 관리할 수 있게 해줍니다.
+> React의 가장 기본적인 [훅](../../API/React/Hook/Readme.md)으로, 함수형 컴포넌트에서 상태(state)를 관리할 수 있게 해줍니다.
 
 - 기본 구조
 
