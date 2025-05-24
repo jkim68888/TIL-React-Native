@@ -10,6 +10,14 @@
 - [AsyncStorage](./API/React-Native/AsyncStorage/Readme.md)
 - [AppState](./API/React-Native/AppState/Readme.md)
 
+### React-Native 빌드 및 배포
+- app.json / app.config.js
+- [로컬 폰트 추가 방법](./Build%2BDeploy/font/Readme.md)
+- [assetBundlePatterns](./Build%2BDeploy/assetBundlePatterns/Readme.md)
+- EAS Build 기본 설정
+- 환경 변수 관리
+- 배포 시 주의사항 (iOS / Android)
+
 ### React 상태 관리
 
 - [React에서 상태란](./State/what/Readme.md)
